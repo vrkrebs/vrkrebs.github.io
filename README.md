@@ -1,5 +1,4 @@
 # vrkrebs.github.io
-pages
 
 BirdWeather Statistics
 
